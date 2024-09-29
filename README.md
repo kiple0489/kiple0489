@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Myeong%20An's%20Github&fontSize=60&fontAlignY=30)
+
 - 👋 Hi, I’m @kiple0489
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +8,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-kiple0489/kiple0489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiple0489&rank_icon=github&show_icons=true&theme=buefy&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiple0489&layout=donut&card_width=400)
